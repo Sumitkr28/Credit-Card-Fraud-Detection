@@ -7,3 +7,8 @@ Detect fraudulent credit card transactions with high accuracy.
 Handle the class imbalance problem effectively.
 Optimize models for recall to minimize false negatives.
 Demonstrate real-world application of ML in the fintech domain.
+
+Dataset
+Source: Kaggle – Credit Card Fraud Detection Dataset
+Records: 284,807 transactions (492 frauds)
+Features: 30 (anonymized PCA features + transaction amount + time)
